@@ -1,5 +1,11 @@
 {
+  "name": "bk-wallet-react-scripts",
+  "description": "BKJK Wallet Configuration and scripts for Create React App.",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huangdawei/create-react-app"
+  }
   "workspaces": [
     "packages/*"
   ],
