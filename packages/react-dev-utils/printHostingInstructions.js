@@ -36,11 +36,11 @@ function printHostingInstructions(
 
     printStaticServerInstructions(buildFolder, useYarn);
   }
-  console.log();
-  console.log('Find out more about deployment here:');
-  console.log();
-  console.log(`  ${chalk.yellow('http://bit.ly/CRA-deploy')}`);
-  console.log();
+  // console.log();
+  // console.log('Find out more about deployment here:');
+  // console.log();
+  // console.log(`  ${chalk.yellow('http://bit.ly/CRA-deploy')}`);
+  // console.log);
 }
 
 function printBaseMessage(buildFolder, hostingLocation) {
