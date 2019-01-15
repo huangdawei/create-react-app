@@ -1,6 +1,6 @@
 {
   "name": "@huangdawei/react-scripts",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -70,7 +70,7 @@
     "style-loader": "0.23.0",
     "terser-webpack-plugin": "1.1.0",
     "url-loader": "1.1.1",
-    "webpack": "4.19.1",
+    "webpack": "^4.19.1",
     "webpack-dev-server": "3.1.9",
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "3.6.3",
