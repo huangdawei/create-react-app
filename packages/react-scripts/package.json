@@ -1,6 +1,6 @@
 {
   "name": "@huangdawei/react-scripts",
-  "version": "2.1.7",
+  "version": "2.1.13",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -29,7 +29,8 @@
   "dependencies": {
     "@babel/core": "7.1.0",
     "@svgr/webpack": "2.4.1",
-    "babel-core": "7.0.0-bridge.0",
+    "acorn": "^6.0.0",
+    "babel-core": "6.26.3",
     "babel-eslint": "9.0.0",
     "babel-jest": "23.6.0",
     "babel-loader": "8.0.4",
@@ -69,8 +70,9 @@
     "sass-loader": "7.1.0",
     "style-loader": "0.23.0",
     "terser-webpack-plugin": "1.1.0",
+    "typescript": "3.2.2",
     "url-loader": "1.1.1",
-    "webpack": "^4.19.1",
+    "webpack": "^4.28.4",
     "webpack-dev-server": "3.1.9",
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "3.6.3",
